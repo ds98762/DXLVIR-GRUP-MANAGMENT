@@ -81,55 +81,45 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-๏ 𝐇𝐈 𝐌𝐑./𝐌𝐈𝐒𝐒 {} 😅 
-
-            🌹𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐇𝐞𝐫𝐞🌹
-
-♧ 𝗠𝗬𝗦𝗘𝗟𝗙 {} 😃
-
+🥀 ʜɪ {} 🫰🏻
+      🌸 ᴡᴇʟᴄᴏᴍᴇ ʜᴇʀᴇ 🌸
+🌼 ᴍʏ sᴇʟғ {} 🥵
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
-
 ๏─────────────────────────๏
 ๏ 24×7 ᴜᴘᴛɪᴍᴇ
 ๏ ʟᴀɢ ғʀᴇᴇ
 ๏ ɴᴏ ᴘʀᴏᴍᴏ ᴀɴᴅ sʜɪᴛs
 ๏ ᴀᴅᴠᴀɴᴄᴇᴅ & ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs
-
-★ FOR MUSIC PLAY TYPE ☞ /mstart
-
-๏ ᴠɪsɪᴛ sᴜᴘᴘᴏʀᴛ  ᴄʜᴀᴛ ғᴏʀ ᴍᴏʀᴇ...
-
-🥂𝐎𝐖𝐍𝐄𝐑🥂➪ @THE\_VIP\_BOY
-
-💞𝐆𝐑𝐎𝐔𝐏💞➪ @TG\_FRIENDSS
-
-🥀𝐎𝐅𝐅𝐈𝐂𝐄🥀➪ @VIP\_CREATORS
+★ ғᴏʀ ᴍᴜsɪᴄ sᴛᴀʀᴛ ☞ /mstart
+๏ ᴠɪsɪᴛ [sᴜᴘᴘᴏʀᴛ  ᴄʜᴀᴛ](https://t.me/CHATTING_GRUP001) ғᴏʀ ᴍᴏʀᴇ...
+๏─────────────────────────๏
+🦋 ᴏᴡɴᴇʀ : [ᴅʜɪᴍᴀɴ](https://t.me/I_DXLVIR)
+💋 ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/CHATTING_GRUP001)
+🐣 ғᴇᴇʟɪɴɢs : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/DHIMAN_FEELINGS)
 ๏─────────────────────────๏
 
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
-
-๏ *ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ʙᴜᴛᴛᴏɴ* .
+🦉 ᴀɴʏ ɪssᴜᴇ .. ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ....](https://t.me/I_DXLVIR)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🕊️𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 & 𝐀𝐃𝐃 𝐅𝐀𝐒𝐓🕊️",
-            url=f"https://t.me/TG_MANAGER_ROBOT?startgroup=true",
+            text="🌿 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 🕊️",
+            url=f"https://t.me/Dhiman_Managmentx_Bot?startgroup=true",
         ),
     ],
     [
         InlineKeyboardButton(text="🥵𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🥵", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="⚡𝐉𝐀𝐀𝐍⚡", url=f"https://t.me/Tg_Friendss"),
-        InlineKeyboardButton(text="🥀𝐏𝐀𝐏𝐀 𝐉𝐈🥀", url=f"https://t.me/THE_VIP_BOY"),
-        InlineKeyboardButton(text="💫𝐏𝐑𝐀𝐍💫", url=f"https://t.me/vip_creators"),
+        InlineKeyboardButton(text="🌸 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌸", url=f"https://t.me/CHATTING_GRUP001"),
+        InlineKeyboardButton(text="🥵 𝗢𝗪𝗡𝗘𝗥 🐍", url=f"https://t.me/i_dxlvir"),
+        InlineKeyboardButton(text="😘 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦 🕊️", url=f"https://t.me/Dhiman_feelings"),
     ],
     [
         InlineKeyboardButton(
-            text="🥳𝐁𝐎𝐓 𝐑𝐄𝐏𝐎/𝐒𝐎𝐔𝐑𝐂𝐄🤩",
-            url=f"https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+            text="🥳𝗗𝗛𝗜𝗠𝗔𝗡 𝗕𝗢𝗧 𝗥𝗘𝗣𝗢🤩",
+            url=f"https://github.com/ds98762/DXLVIR-GRUP-MANAGMENT",
         ),
     ],
 ]
@@ -147,9 +137,8 @@ USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
-𝐘𝐄𝐇❤️𝐉𝐎𝐈𝐍❤️𝐊𝐑❤️𝐋𝐎❤️𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『TG FRIENDS』🔥](https://t.me/TG_FRIENDSS)
-                   
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@THE\_VIP\_BOY⛦⃕͜🇮🇳𓊉
+𝐘𝐄𝐇❤️𝐉𝐎𝐈𝐍❤️𝐊𝐑❤️𝐋𝐎❤️𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『DHIMAN CHATTING』🔥](https://t.me/CHATTING_GRUP001)
+                 
 """
 	          
 
@@ -454,7 +443,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            callback_data="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+                            callback_data="https://github.com/ds98762/DXLVIR-GRUP-MANAGMENT",
                         ),
                     ],
                     [
