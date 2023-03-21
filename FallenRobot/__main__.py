@@ -119,7 +119,7 @@ buttons = [
     [
         InlineKeyboardButton(
             text="🥳𝗗𝗛𝗜𝗠𝗔𝗡 𝗕𝗢𝗧 𝗥𝗘𝗣𝗢🤩",
-            url=f"https://github.com/ds98762/DXLVIR-GRUP-MANAGMENT",
+            url=f"https://t.me/i_dxlvir",
         ),
     ],
 ]
@@ -137,7 +137,7 @@ USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
-𝐘𝐄𝐇❤️𝐉𝐎𝐈𝐍❤️𝐊𝐑❤️𝐋𝐎❤️𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『DHIMAN CHATTING』🔥](https://t.me/CHATTING_GRUP001)
+𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 ➪ [🔥『DHIMAN CHATTING』🔥](https://t.me/CHATTING_GRUP001)
                  
 """
 	          
